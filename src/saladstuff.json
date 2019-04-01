@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "avocado",
+    "image": "./images/avocado.png"
+  },
+  {
+    "id": 2,
+    "name": "baby carrots",
+    "image": "./images/babycarrots.jpg"
+  },
+  {
+    "id": 3,
+    "name": "cauliflower",
+    "image": "./images/cauliflower.jpg"
+  },
+  {
+    "id": 4,
+    "name": "cheese",
+    "image": "./images/cheese.jpg"
+  },
+  {
+    "id": 5,
+    "name": "cherry tomato",
+    "image": "./images/cherrytomato.jpg"
+  },
+  {
+    "id": 6,
+    "name": "honeydew",
+    "image": "./images/honeydew.jpg"
+  },
+  {
+    "id": 7,
+    "name": "kale",
+    "image": "./images/kale.jpg"
+  },
+  {
+    "id": 8,
+    "name": "raisins",
+    "image": "./images/raisins.jpg"
+  },
+  {
+    "id": 9,
+    "name": "red pepper",
+    "image": "./images/redpepper.jpg"
+  },
+  {
+    "id": 10,
+    "name": "romaine",
+    "image": "./images/romaine.jpg"
+  },
+  {
+    "id": 11,
+    "name": "spinach",
+    "image": "./images/spinach.jpg"
+  },
+  {
+    "id": 12,
+    "name": "strawberries",
+    "image": "./images/strawberries.jpg"
+  }
+]
