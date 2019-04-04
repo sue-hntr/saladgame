@@ -12,7 +12,6 @@ class App extends Component {
     count: 0,
     arrayCheck: [],
     score: 0,
-    savescore: 0
   };
 
   shuffleArray = (saladstuff) => {
@@ -67,7 +66,7 @@ class App extends Component {
         score={this.state.score}  
         ></Navbar>
         <InfoHeader></InfoHeader>
-        
+        {/* <div className="box_wide"> */}
           {this.state.saladstuff.map(saladstuff => (
             <SaladCard
               handleClick={this.handleClick}
@@ -77,6 +76,7 @@ class App extends Component {
               image={saladstuff.image}
             />
           ))}
+          {/* </div> */}
 
       </Wrapper>
     );

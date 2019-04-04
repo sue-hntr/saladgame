@@ -4,7 +4,7 @@ import "./style.css";
 
 function InfoHeader(props) {
   return (
-    <div>
+    <div className="wider">
         <header className="header">
             <h1>
                 Healthy Salad Clicky Game!
